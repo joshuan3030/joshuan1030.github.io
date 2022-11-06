@@ -107,7 +107,6 @@ if ($methodo == "POST") {
           </script>
           <div class="a">¿No tienes una cuenta? <a style="color: #E36262" href="registro.php">registrarse</a></div>
 
-          <div class="copy-text">Creado <i class="fa fa-heart"></i> por Joshuan</div>
         </div>
         <div class="col-md-6 banner-sec">
           <div id="carouselExampleIndicators" class="">
